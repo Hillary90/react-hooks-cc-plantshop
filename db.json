@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 8
+    },
+    {
+      "name": "Lavender",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR30GHZ9_Co6fjY9V9v20bmYo86xPomMyK_uDihnBv8grJjuD0_pd9g741ViuJm1o8J29KLzxzkB_HjedG6_se2FtSxV16w7sDZHPPSmIlycA&s=10",
+      "price": "22.45",
+      "id": 9
+    },
+    {
+      "name": "Peace lily",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSE8HTuvyCTlHi1Caou-mlpydcJixanhaYlSIb3dtys6IcEp9fwV3ov_qBHZivO5Viw3BTx3fUkEaML3FncFYwJfLjPXU2ptOgwhJmFTJL&s=10",
+      "price": "13.56",
+      "id": 10
     }
   ]
 }
